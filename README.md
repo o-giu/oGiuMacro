@@ -18,8 +18,8 @@
 
 ## Sobre o App / About the App
 
-<img src="https://codeberg.org/oGiu/.profile/raw/branch/main/images/01.svg" width="20"/> Criei este app porque precisava de algo prático e os outros apps para Linux eram confusos demais ou limitados para mim. Desenvolvi focado no meu uso pessoal (uso Fedora 43 KDE com suporte x11 legado ativo para garantir que as hotkeys funcionem do meu jeito). Fique à vontade para usar!<br>
-<img src="https://codeberg.org/oGiu/.profile/raw/branch/main/images/02.svg" width="20"/> I built this app because I needed something practical and other Linux apps were too confusing or limited for me. I developed it for my personal workflow (I use Fedora 43 KDE with legacy x11 support enabled to ensure hotkeys work the way I want). Feel free to use!
+<img src="https://codeberg.org/oGiu/.profile/raw/branch/main/images/01.svg" width="20"/> Criei este app porque precisava de algo prático e os outros apps para Linux eram confusos demais ou limitados para mim. Desenvolvi focado no meu uso pessoal. Fique à vontade para usar!<br>
+<img src="https://codeberg.org/oGiu/.profile/raw/branch/main/images/02.svg" width="20"/> I built this app because I needed something practical and other Linux apps were too confusing or limited for me. I developed it for my personal workflow. Feel free to use!
 
 ---
 
