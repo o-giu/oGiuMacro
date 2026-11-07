@@ -8,6 +8,10 @@
 
 ---
 
+<sup>*I built this out of personal necessity: existing Linux tools were either overly complicated to configure, broken on modern desktop environments like Wayland, or simply lacked the core features I needed in my daily workflow.*</sup>
+
+---
+
 A mouse and keyboard macro automation tool for Linux featuring image recognition, built natively in Rust with support for both Wayland (KDE Plasma, GNOME, Hyprland, Sway) and X11.
 <br><sup>*Fedora 44 KDE Host System * Universal Build & AppImage (Debian 12 base via Podman)*</sup>
 
