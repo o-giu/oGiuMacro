@@ -33,7 +33,9 @@ Automatically detects your distribution and missing optional packages on startup
 - **openSUSE**:
   ```bash
   sudo zypper install wmctrl xdotool scrot slurp zenity
-  ```</sup>
+  ```
+</sup>
+
 ---
 
 ## License
