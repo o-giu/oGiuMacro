@@ -14,15 +14,15 @@ An mouse and keyboard macro automation tool for Linux, built natively in **Rust*
 ---
 
 Automatically detects your distribution and missing optional packages on startup:<sup>
-- **Debian / Ubuntu / Mint**:
+- **Debian**:
   ```bash
   sudo apt install wmctrl xdotool scrot slurp zenity
   ```
-- **Fedora / RHEL**:
+- **Fedora**:
   ```bash
   sudo dnf install wmctrl xdotool scrot slurp zenity
   ```
-- **Arch Linux / Manjaro**:
+- **Arch**:
   ```bash
   sudo pacman -S wmctrl xdotool scrot slurp zenity
   ```
