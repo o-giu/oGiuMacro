@@ -8,7 +8,7 @@
 
 ---
 
-An mouse and keyboard macro automation tool for Linux, built natively in **Rust** with support for both **Wayland** (KDE Plasma, GNOME, Hyprland, Sway) and **X11**.
+A modern mouse and keyboard macro automation tool for Linux featuring image recognition, built natively in Rust with support for both Wayland (KDE Plasma, GNOME, Hyprland, Sway) and X11.
 <br><sup>*Fedora 44 KDE Host System * Universal Build & AppImage (Debian 12 base via Podman)*</sup>
 
 ---
