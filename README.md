@@ -10,7 +10,7 @@
 
 <sup>*I built this out of personal necessity: existing Linux tools were either overly complicated to configure, broken on modern desktop environments like Wayland, or simply lacked the core features I needed in my daily workflow.*</sup>
 
-<details><summary>Screenshots</summary><img src="https://raw.githubusercontent.com/o-giu/oGiuMacro/refs/heads/main/images/01.png"/> <img src="https://raw.githubusercontent.com/o-giu/oGiuMacro/refs/heads/main/images/02.png"/> <img src="https://raw.githubusercontent.com/o-giu/oGiuMacro/refs/heads/main/images/03.png"/></details>
+<details><summary>Screenshots</summary><img src="https://github.com/o-giu/oGiuMacro/blob/main/images/01.png"/> <img src="https://github.com/o-giu/oGiuMacro/blob/main/images/02.png"/> <img src="https://github.com/o-giu/oGiuMacro/blob/main/images/03.png"/></details>
 
 ---
 
