@@ -45,3 +45,6 @@ Automatically detects your distribution and missing optional packages on startup
 ## License
 
 <sup>This project is licensed under the MIT License. Developed with care by **oGiu**.</sup>
+<br><div align="center">
+*Use at your own risk.*
+</div>
